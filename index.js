@@ -5,4 +5,4 @@ function divide(a, b) {return a / b}
 function inc(n) {return ++n}
 function dec(n) {return --n}
 function makeInt(n) {return parseInt(n)}
-function makeInt(n, b) {return parseInt(n, 10)}
+function makeInt(n, 10) {return parseInt(n, 10)}
