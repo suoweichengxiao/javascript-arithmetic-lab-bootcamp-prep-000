@@ -5,5 +5,5 @@ function divide(a, b) {return a / b}
 function inc(n)
  {var number = n
    return (number++)}
-function dec(n) 
+function dec(n)
 {var number = n return (number--)}
